@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Kauã Soares
 
-<!--
-**Kaua-Araujo-Soares/Kaua-Araujo-Soares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Analysis and Development student  
+💻 Passionate about technology, programming and problem solving  
+📊 Interested in data analysis and process automation  
+📍 Belo Horizonte, Brazil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Systems Analysis and Development student with a strong interest in software development, data, and automation.  
+I have an analytical mindset and enjoy solving problems, learning new technologies, and improving processes.
+
+Currently focused on building a solid foundation in programming and data-related tools.
+
+---
+
+## 🛠️ Tech Stack
+
+- Java  
+- Python  
+- SQL (PostgreSQL)  
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 📚 Currently Learning
+
+- Object-Oriented Programming (Java)  
+- Data analysis with Python  
+- SQL for data querying and manipulation  
+- Workflow automation using n8n  
+
+---
+
+## 📈 Goals
+
+- Improve programming and problem-solving skills  
+- Gain practical experience in real-world projects  
+- Work with software development and data  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/kauã-soares-a9260335a/  
+- Email: kauassoares3@gmail.com  
+
+---
