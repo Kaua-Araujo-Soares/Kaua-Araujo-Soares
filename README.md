@@ -45,7 +45,7 @@ Currently focused on building a solid foundation in programming and data-related
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/kauã-soares-a9260335a/  
+- LinkedIn: https://www.linkedin.com/in/kaua-soares-a9260335a/  
 - Email: kauassoares3@gmail.com  
 
 ---
