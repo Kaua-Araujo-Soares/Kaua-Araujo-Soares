@@ -22,7 +22,8 @@ Currently focused on building a solid foundation in programming and data-related
 - Python  
 - SQL (PostgreSQL)  
 - Git & GitHub  
-- VS Code  
+- VS Code
+- JavaScript
 
 ---
 
